@@ -52,4 +52,8 @@ function salvarTarefas() {
 function editarTarefa(posicao) {
   posicaoEditar = posicao;
   entradaTarefa.value = tarefas[posicao];
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 968a135 (segundo registro)
